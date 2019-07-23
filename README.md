@@ -6,4 +6,4 @@ Project Details :  [Golomb Ruler](http://www3.cs.stonybrook.edu/~cse537/project0
 
 [Report](https://github.com/techiepanda/golomb-ruler/blob/master/Golomb%20Ruler%20Report.pdf) for the stats we analyzied while running different kind of approaches to find optimal length Golomb Ruler.
 
-Team: [Renu Rani](https://github.com/techiepanda), [Anurag Arora](https://github.com/geekyspartan)
+
